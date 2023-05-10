@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我的个人介绍
+title: 翟怡丹的个人介绍
 subtitle: Let's go!!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
