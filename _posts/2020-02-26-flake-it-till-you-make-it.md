@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 翟怡丹的课程感悟
+title: 翟怡丹的个人思考
 subtitle: 踏上奇妙的旅程吧~
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
